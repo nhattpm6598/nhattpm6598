@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=50&color=F72435&background=3E3E3E00&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Hi+there+%F0%9F%91%8B;My+name+is+Nhat+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Nice+to+meet+you!)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://skillicons.dev">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=50&color=F72435&background=3E3E3E00&center=true&vCenter=true&multiline=true&width=435&height=150&lines=Hi+there+%F0%9F%91%8B;My+name+is+Nhat+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Nice+to+meet+you!" alt="Typing SVG" /></a>
+  </a>
+</p>
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
