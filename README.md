@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Nhat
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F72435&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Nhat+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
